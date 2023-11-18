@@ -1,5 +1,5 @@
 # jupyter-notebook
-#This repository contains the completed assignment on the Data Science ecosystem.
+This repository contains the completed assignment on the Data Science ecosystem.
 The assignment was done using Jupyter Notebook, a popular tool for data analysis and visualization.
 
 How to Run Markdown Cells
